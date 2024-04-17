@@ -10,7 +10,7 @@ Given the excitement around AirChat, I decided to explore how a voice-to-voice a
 
 - **Framework**: Powered by **Next.js**, Speak offers a seamless, high-performance user experience.
 - **Transcription**: Integrating **OpenAI's or Groq Whisper**, Speak provides accurate, real-time transcription, making every conversation accessible and easy to follow.
-- **Real-Time Interaction**: Using **WebSockets**, Speak ensures that your messages are delivered instantly, with no delays, for a fluid communication experience.
+- **Real-Time Interaction**: Using **WebSockets**, Speak ensures that your messages are delivered as soon as the audio and transcription are ready, with minimal delays, for a fluid communication experience.
 
 ### 🌍 Connect Instantly, Anywhere
 
